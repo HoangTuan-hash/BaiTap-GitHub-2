@@ -7,3 +7,6 @@ var future2 = function(){
 var doneF2 = function(){
     console.log('done F2');
 }
+var doneMaster = function(){
+    console.log('Done ca 2 Future');
+}
